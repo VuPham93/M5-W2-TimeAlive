@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "M5-W2-TimeAlive"
+    }
+  },
+  "defaultProject": "M5-W2-TimeAlive",
+  "cli": {
+    "analytics": false
+  }
 }
